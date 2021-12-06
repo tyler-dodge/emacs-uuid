@@ -23,7 +23,7 @@
 
 ;;; Code:
 
-(require 'cl)
+(require 'cl-lib)
 (require 'calc-comb)
 
 (defun uuid-create ()
